@@ -6,4 +6,4 @@ environment: prod
 plugins:
   # - jekyll-scholar
   - jekyll-sitemap
-  - jekyll-feed
+  # - jekyll-feed
